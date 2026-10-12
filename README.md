@@ -11,3 +11,15 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Testimonial
   - Quote
   - Author
+
+2. CSS
+
+- Basic Reset
+- Variables
+- Header
+- Pricing Cards
+  - Features
+  - Button
+- Testimonial
+- Responsive Design
+- Animation
