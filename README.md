@@ -23,3 +23,7 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Testimonial
 - Responsive Design
 - Animation
+
+dnjs font-awesome Library: https://cdnjs.com/libraries/font-awesome
+
+Random User Generator: https://www.randomuser.me/
